@@ -4,8 +4,8 @@
 
 ## 📁 目录结构
 
-├── 01-LinearList         # 线性表
-│   ├── SequenceList       # 顺序表
+├── 01-LinearList          # 线性表
+│   ├── SeqList.c          # 顺序表
 │   └── LinkedList         # 链表（单/双/循环）
 ├── 02-StackQueue          # 栈与队列
 │   ├── Stack              # 顺序栈、链栈
